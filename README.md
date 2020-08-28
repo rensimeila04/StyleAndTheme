@@ -9,6 +9,8 @@ Komponen view dan viewsgrup berkolaborasi dan dapat digunakan untuk membuat apli
 Pada contoh diatas menggunakan 
 # Scroll view 
   Scroll view sehingga tampilan aplikasi dapat di scroll
+  
+  
   ![AltText](https://github.com/rensimeila04/Views-and-Views-Group/blob/master/01.jpeg)
 
 # Image view 
